@@ -1,0 +1,134 @@
+body {
+    background-color: #FFE7D6;
+    margin-top : 20px;
+    margin-left : 25% ;
+    margin-right : 25% ;
+}
+#cookieimg {
+    height: 269px;
+    width: 262px;
+    background-color: #ff0000;
+    padding : 0px;
+    background: none;
+
+}
+
+#auto:hover, #doubler:hover {
+    cursor: pointer;
+}
+
+#cookie {
+    padding : 0px;
+    border: none;
+    width: 100%;
+    background-color: #422017;
+    border-radius: 20px 0px 0px 0px ;
+}
+
+#doubler {
+    height: 80px;
+    width: 75px;
+    background-color: #EFA35A;
+    padding : 7px;
+    border-radius: 25%;
+    background-color: #422017;
+}
+
+#x2 {
+    padding : 0px;
+    margin : 0px;
+    border: none;
+    background-color: #EFA35A;
+}
+
+#auto {
+    height: 80px;
+    width: 75px;
+    background-color: #EFA35A;
+    padding : 2px;
+    border-radius: 25%;
+    background-color: #422017;
+}
+
+#autoclick {
+    padding : 0px;
+    margin : 0px;
+    border: none;
+    background-color: #EFA35A;
+}
+
+.shopbox {
+    background-color: #EFA35A;
+    border-radius: 0px 20px 0px 0px;
+    height: 100%;
+}
+
+#jar {
+    padding : 0px;
+    margin : 0px;
+    border: none;
+    background-color: #EFA35A;
+}
+
+#cookiejar {
+    height: 80px;
+    width: 75px;
+    background-color: #EFA35A;
+    padding : 0px;
+}
+
+#titlecookie {
+    height : 40px;
+    width: 40px;
+}
+
+#counter-parent {
+    background-color: #422017;
+    border-radius: 0 0 20px 20px;
+}
+
+h1 {
+        font-family: "Ingrid Darling", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 100px;
+}
+
+.parent-title {
+    background-color: #EFA35A;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+
+@media (max-width: 768px) {
+    body {
+        margin: 0;
+    }
+    h1 {
+        padding-left: 5px;
+        font-size: 3rem;
+    }
+    .shopbox {
+        border-radius: 0px;
+        margin-top: 20px;
+        padding-top: 10px;
+    }
+    .shopbox-col {
+        border-radius: 0px;
+    }
+
+    #cookie {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        height: 100%;
+        width: 100%;
+        border-radius: 0%;
+    }
+
+    #doubler, #auto {
+        border-radius: 0%;
+        background-color: #422017;
+        text-align: start;
+    }
+    }       
