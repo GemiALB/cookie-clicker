@@ -1,8 +1,8 @@
-# 🍪 Cookie Clicker - Handmade by Gemi! 🍪
+# 🍪 Cookie Clicker - handmade by Gemi! 🍪
 
 Welcome to my **Cookie Clicker**! If you love cookies (and who doesn’t?), you’re in the right place! This fun game lets you click on cookies to increase your score, buy upgrades, and even activate auto-clickers to help you rack up even more points! 🎉
 
-## 🎮 How to Play?
+## 🎮 How to play?
 
 1. **Click on the cookie** to earn points! Each click adds a point to your score. 🥳
 2. **Buy upgrades** to double your cookie production! Each upgrade makes the game even more exciting. 🚀
@@ -15,7 +15,7 @@ Welcome to my **Cookie Clicker**! If you love cookies (and who doesn’t?), you�
 - **Auto-click** to earn points automatically! 🤖
 - **Real-time display** of your score and available upgrades! 📈
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies used
 
 - **HTML** - Basic structure of the webpage.
 - **CSS** - Styling and layout of the game.
