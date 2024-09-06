@@ -21,7 +21,7 @@ Welcome to my **Cookie Clicker**! If you love cookies (and who doesn’t?), you�
 - **CSS** - Styling and layout of the game.
 - **JavaScript** - Game logic, clicks, and upgrade management.
 
-## 🎨 Project Screenshot
+## 🎨 Project preview 
 
 ![image](https://github.com/user-attachments/assets/258f641c-3fe6-4806-ae8a-accfc3e2d209)
 
